@@ -24,4 +24,5 @@ a {
 
 a:hover {
     color: darkmagenta;
+    text-decoration: underline;
 }
